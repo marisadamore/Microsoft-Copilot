@@ -1,133 +1,149 @@
 # AI Workflow Portfolio: Copilot Examples
 
-This repository showcases practical Copilot workflows for communications and marketing tasks. The focus is on real-world applications of AI tools in a professional context. 
----
-
-## 1. Onboarding Guide: Coca-Cola Communications Team
-
-**Task:**  
-Create a step-by-step onboarding guide for a new communications team member, including company overview, team structure, first-week tasks, company culture, and communication tools.
+This repository demonstrates how GitHub Copilot can assist with professional communication workflows. The examples show how prompts can be used to generate structured content, which is then refined and organized by a human editor.
 
 ---
 
-### Company Overview
+# Project Example: Communications Team Onboarding Guide
 
-**Mission & Vision**  
+## Project Goal
+Create a structured onboarding guide for a new communications team member, including company overview, team structure, first-week tasks, company culture, and communication tools.
+
+---
+
+# Prompt 1: Generate Onboarding Structure
+
+**Copilot Prompt**
+
+Create a step-by-step onboarding guide for a new communications team member at Coca-Cola. Include:
+
+• Company overview  
+• Communications team structure  
+• First week onboarding tasks
+
+Organize the information using headings and bullet points suitable for internal documentation.
+
+---
+
+**Copilot Response (Edited)**
+
+## Company Overview
+
+Mission and Vision  
 Coca-Cola aims to refresh the world and make a difference through beverages, sustainability initiatives, and community impact.
 
-**Brand Portfolio**  
-Coca-Cola, Coca-Cola Zero Sugar, Diet Coke, Sprite, Fanta, Minute Maid, Dasani, Smartwater, and additional regional beverage brands.
+Brand Portfolio  
+Coca-Cola, Coca-Cola Zero Sugar, Diet Coke, Sprite, Fanta, Minute Maid, Dasani, Smartwater.
 
-**Core Values**
+Core Values
 
-- Leadership  
-- Collaboration  
-- Integrity  
-- Accountability  
-- Passion  
-- Diversity  
-- Quality
-
----
-
-### Communications Team Structure
-
-**Global Communications**  
-Oversees corporate messaging, brand reputation, and global storytelling.
-
-**Public Affairs & Media Relations**  
-Manages press outreach, media relationships, and crisis communication strategies.
-
-**Brand & Marketing Communications**  
-Ensures messaging aligns with brand campaigns and marketing initiatives.
-
-**Digital & Social Media Team**  
-Manages social platforms, digital engagement, and online storytelling.
-
-**Internal Communications**  
-Supports employee engagement, leadership messaging, and company-wide updates.
-
-**Cross-Functional Collaboration**  
-Works closely with Marketing, Sustainability, Legal, Human Resources, and regional business units.
+• Leadership  
+• Collaboration  
+• Integrity  
+• Accountability  
+• Passion  
+• Diversity  
+• Quality
 
 ---
 
-### First-Week Tasks
+## Communications Team Structure
 
-**Day 1 – Orientation**  
-Review company mission, brand values, and communications guidelines.
+Global Communications  
+Oversees corporate messaging and brand reputation.
 
-**Day 2 – Team Introductions**  
-Meet team leads across Communications, Marketing, and Public Affairs.
+Public Affairs and Media Relations  
+Handles media outreach and crisis communications.
 
-**Day 3 – Tools & Systems Training**  
-Learn core communication platforms including project management and social listening tools.
+Brand and Marketing Communications  
+Aligns messaging with marketing campaigns.
 
-**Day 4 – Team Immersion**  
-Attend communications planning meetings and observe campaign strategy discussions.
+Digital and Social Media  
+Manages social platforms and digital engagement.
 
-**Day 5 – First Assignment**  
-Draft a short internal update or social media caption for team review.
-
----
-
-### Company Culture, Tone of Voice, and Communication Style
-
-Coca-Cola’s culture emphasizes optimism, collaboration, and meaningful human connection. The company encourages employees to share ideas, learn continuously, and contribute to a culture where diverse perspectives strengthen storytelling and communication strategies.
-
-The brand voice is warm, optimistic, and authentic. Communications should be clear, approachable, and engaging while avoiding unnecessary complexity or corporate jargon. Whether communicating internally or externally, messaging should reflect Coca-Cola’s role in bringing people together and celebrating everyday moments.
-
-Across internal messaging, digital content, media relations, and marketing campaigns, communications professionals aim to maintain consistency, transparency, and clarity. Stories often highlight real people, communities, and shared experiences. Every message contributes to strengthening trust and reinforcing the brand’s global narrative.
+Internal Communications  
+Supports employee engagement and leadership messaging.
 
 ---
 
-### Communication Tools Overview
+## First Week Tasks
 
-**Microsoft Teams**  
-Primary platform for internal messaging, video meetings, and collaboration.
+Day 1 – Orientation  
+Review company mission and brand guidelines.
 
-**Outlook**  
-Email communication and calendar scheduling.
+Day 2 – Team Introductions  
+Meet communications and marketing teams.
 
-**Social Listening Tools (Sprinklr)**  
+Day 3 – Tools and Systems Training  
+Training on CMS, project management tools, and communication platforms.
+
+Day 4 – Team Observation  
+Attend communications meetings and campaign planning sessions.
+
+Day 5 – Initial Contribution  
+Draft a short internal communication update or social media caption.
+
+---
+
+# Prompt 2: Culture and Communication Style (200 Words)
+
+**Copilot Prompt**
+
+Write approximately 200 words describing Coca-Cola’s company culture, tone of voice, and communication style for a new communications team member.
+
+---
+
+**Copilot Response (Edited)**
+
+Coca-Cola’s culture is centered on optimism, collaboration, and the power of human connection. The company encourages employees to bring forward ideas, learn continuously, and contribute to a diverse workplace where different perspectives strengthen storytelling and communication strategies. Transparency, accountability, and mutual respect guide the way teams work together across regions and departments.
+
+The tone of voice used in Coca-Cola communications is warm, positive, and authentic. Messaging should be clear, approachable, and engaging while avoiding unnecessary jargon or overly complex language. Communications professionals aim to tell stories that resonate emotionally with audiences while reflecting the brand’s long history of bringing people together.
+
+Across internal communications, marketing campaigns, and public relations efforts, consistency and clarity are essential. Messages should reinforce Coca-Cola’s mission while highlighting community impact, shared experiences, and global connection. By maintaining a clear and optimistic communication style, team members help strengthen the company’s reputation and build meaningful relationships with audiences around the world.
+
+---
+
+# Prompt 3: Communication Tools List
+
+**Copilot Prompt**
+
+Create a list of communication tools commonly used by corporate communications teams and briefly explain the purpose of each tool.
+
+---
+
+**Copilot Response (Edited)**
+
+Microsoft Teams  
+Internal messaging, meetings, and collaboration.
+
+Outlook  
+Email communication and scheduling.
+
+Social Listening Platforms (Sprinklr)  
 Monitor brand sentiment and manage social media publishing.
 
-**Content Management System (CMS)**  
+Content Management System (CMS)  
 Publish website articles, blog posts, and press releases.
 
-**Project Management Tools (Asana, Monday.com)**  
-Track tasks, project timelines, and campaign workflows.
+Project Management Tools (Asana, Monday.com)  
+Track tasks, deadlines, and campaign workflows.
 
-**Media Monitoring Platforms (Meltwater, Cision)**  
-Track press coverage and manage journalist contact lists.
+Media Monitoring Platforms (Meltwater, Cision)  
+Track press coverage and manage journalist lists.
 
-**Brand Asset Library**  
-Central repository for logos, imagery, and brand guidelines.
+Brand Asset Libraries  
+Store logos, templates, and approved brand visuals.
 
-**Analytics Dashboards**  
-Monitor campaign performance and digital engagement metrics.
-
----
-
-### Success Tips & First-Week Checklist
-
-- Complete system account setup  
-- Meet communications team members  
-- Review brand guidelines and messaging frameworks  
-- Attend communications planning meetings  
-- Complete systems training  
-- Submit first content draft for feedback  
-- Align with manager on first 30-day goals
+Analytics Dashboards  
+Measure communication campaign performance and engagement.
 
 ---
 
-## Skills Demonstrated
+# Skills Demonstrated
 
-- AI-assisted content generation using GitHub Copilot  
-- Professional documentation and onboarding content creation  
-- Information organization and structured writing  
-- Communication strategy awareness  
-- Marketing and communications workflow design  
-- Editing and refining AI-generated content  
-- Markdown documentation formatting  
-- Technical writing for internal communication resources
+AI-assisted writing using GitHub Copilot  
+Prompt engineering and structured AI inputs  
+Editing and refining AI-generated content  
+Professional documentation development  
+Corporate communications workflow design  
+Technical writing and information organization 
