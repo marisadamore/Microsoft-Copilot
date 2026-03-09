@@ -1,9 +1,6 @@
 # AI Workflow Portfolio: Copilot Examples
 
-This repository showcases practical Copilot workflows for communications and marketing tasks. The focus is on real-world applications of AI tools in a professional context — not code experiments — including onboarding guides, internal communications, and content planning.
-
-The goal is to demonstrate how AI tools like GitHub Copilot can assist professionals in generating structured documentation, organizing information, and accelerating content development while maintaining human oversight and editing.
-
+This repository showcases practical Copilot workflows for communications and marketing tasks. The focus is on real-world applications of AI tools in a professional context. 
 ---
 
 ## 1. Onboarding Guide: Coca-Cola Communications Team
